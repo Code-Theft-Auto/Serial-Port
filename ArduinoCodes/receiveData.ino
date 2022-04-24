@@ -1,5 +1,5 @@
 /*
- * Author: Manash Kumar Mandal
+ * Author: BananaBoii600
  * Example For receiving data from SerialPort
  */
 
