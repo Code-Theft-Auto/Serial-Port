@@ -1,5 +1,5 @@
 /*
- * Author: Manash Kumar Mandal
+ * Author: BananaBoii600
  * Example For sending data to SerialPort
  */
 
