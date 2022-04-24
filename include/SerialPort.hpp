@@ -1,5 +1,5 @@
 /*
-* Author: Manash Kumar Mandal
+* Author: BananaBoii600
 * Modified Library introduced in Arduino Playground which does not work
 * This works perfectly
 * LICENSE: MIT
